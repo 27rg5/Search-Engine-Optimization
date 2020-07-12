@@ -1,1 +1,1 @@
-Created a SEO software for websites.
+A group project to create SEO software for websites.
