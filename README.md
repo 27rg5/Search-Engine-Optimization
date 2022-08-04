@@ -1,1 +1,1 @@
-A group project to create a replica of the SEOs for websites present in the market.
+A group project to implement some features of SEO to increase the inbound traffic to websites using Python.
