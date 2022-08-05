@@ -1,4 +1,4 @@
-A group project to implement some features of SEO to increase the inbound traffic to websites using Python.
+A group project to implement features of SEO to increase the inbound traffic to websites using Python.
 
 </br>
 
